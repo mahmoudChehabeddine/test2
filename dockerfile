@@ -1,4 +1,4 @@
-# Use the official Moodle image as a base images
+# Use the official Moodle image as a base image
 FROM moodlehq/moodle-php-apache:7.4
 
 # Copy the existing Moodle code into the container
